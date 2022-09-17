@@ -1,4 +1,4 @@
 # somu
 about software
 testing purpose
-git log 
+git log
